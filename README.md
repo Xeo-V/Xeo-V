@@ -14,9 +14,10 @@
   
   <h2>Expertise:</h2>
   <ul>
-    <li>Proficient in dissecting software architecture.</li>
-    <li>Crafting precision solutions through thorough code analysis.</li>
-    <li>Revealing the core mechanics of intricate systems.</li>
+    <li>Proficient in web development, with a knack for crafting digital experiences.</li>
+    <li>Skilled in Python and C++, shaping logic through lines of code.</li>
+    <li>Possessing knowledge of AI concepts, exploring the realm of artificial minds.</li>
+    <li>Entry-level expertise in the realm of cyber security, safeguarding the digital realm.</li>
   </ul>
   
   <h2>Contact Information:</h2>
