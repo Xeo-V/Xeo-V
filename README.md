@@ -22,9 +22,8 @@
   
   <h2>Contact Information:</h2>
   <p>Available at KindaX30#1337</p>
-  
-  <p>
-    <em>Xeo-V/Xeo-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    You can click the Preview link to take a look at your changes.</em>
-  </p>
 </div>
+
+<!---
+  Psst...this profile is a haunted house of code.
+--->
