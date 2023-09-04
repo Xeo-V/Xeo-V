@@ -2,8 +2,7 @@
   <h1>Greetings, Enthusiast of Knowledge! 👋</h1>
   
   <blockquote>
-    <p>"Psst...this profile is a haunted house of code."<br>
-    "The truth is out there, waiting to be discovered."<br>
+    <p>
     "Embrace the glitch, and you'll see how far the rabbit hole truly goes."</p>
   </blockquote>
   
