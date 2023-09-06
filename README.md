@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,WIN API, Krnl Developement**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xeo-V](https://github.com/Xeo-V)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Xeo-V?tab=repositories)
 
 - 📫 How to reach me **KindaX30#2069**
 
