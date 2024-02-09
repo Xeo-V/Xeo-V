@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Xeo-V?tab=repositories)
 
-- 📫 How to reach me **KindaX30#2069**
+- 📫 How to reach me dc : **kindaxeo**
 --------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
