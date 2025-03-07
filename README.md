@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on [AI Based Passward Manager](https://github.com/Xeo-V/CyberVault-AI)
+- 🔭 I’m currently working on [Cloud Based Passward Manager](https://github.com/Xeo-V/CyberVault-AI)
 
-- 🌱 I’m currently learning **Machine Learning,WIN API, Krnl Developement**
+- 🌱 I’m currently learning **DevOps, WIN API, Docker**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Xeo-V?tab=repositories)
 
-- 📫 How to reach me dc : **kindaxeo**
+- 📫 How to reach me : **kindaxeo@duck.com**
 --------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
